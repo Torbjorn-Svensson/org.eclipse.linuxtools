@@ -19,6 +19,6 @@ package org.eclipse.linuxtools.internal.gcov;
 public class Constants {
 
     // The plug-in ID
-    public static final String PLUGIN_ID = "org.eclipse.linuxtools.gcov.core"; //$NON-NLS-1$
+    public static final String PLUGIN_ID = "org.eclipse.linuxtools.gcov.core2"; //$NON-NLS-1$
 
 }
